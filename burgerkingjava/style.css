@@ -1,0 +1,318 @@
+header{
+    height: 70px;
+    background-color: #f5ebdc;
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-bottom: 0.5px solid #9b9995;
+    z-index: 1;
+
+}
+img{
+    width: 50px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+
+
+ul{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 100px;
+
+}
+
+li{
+    color: #502314;
+  list-style: none;
+  margin-left: 20px;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 200px;
+
+}
+
+.register{
+    background-size: 20px;
+    background-color: red;
+    border-radius: 20px;
+    font-weight: 500px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 400px;
+
+}
+
+li:hover{
+    color: red;
+    background-color: #ebe2d6;
+    border-radius: 20px;
+    
+}
+main{
+    background-color: #F5EBDC;
+    
+}
+.image{
+    
+    margin-right: 100px;
+    margin-top: 200px;
+    width: 800px;
+    height: 400px;
+   
+
+    
+}
+
+
+.maindiv{
+    width: 450px;
+    height: 400px;
+    background-color: #f3e6d1;
+    border-radius: 20px;
+    margin-top: 100px;
+    position: relative;
+    left: 200px;
+
+    
+     
+    
+    
+
+}
+
+#orders{
+    visibility: hidden
+}
+
+
+#second{
+   visibility:; 
+   font-size: 13px;
+}
+
+
+
+.mainimg{
+    display: flex;
+}
+.general{display: flex;}
+
+.firsttext{
+    color: #502314;
+    margin-left: 50px;
+    position: relative;
+    top: 15px;
+ 
+}
+
+
+.seconddiv{
+    width: 90%;
+    height: 80px;
+    background-color: #F5EBDC;
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    position: relative;
+    top: 20px;
+    align-items: center;
+   
+
+}
+
+.thirddiv{
+    width: 90%;
+    height: 80px;
+    background-color: #F5EBDC;
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.fourthdiv{
+    width: 90%;
+    height: 80px;
+    background-color: #F5EBDC;
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    align-items: center;
+
+}
+.firstminidiv{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: red;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstimg{
+    width: 30px;
+    height: 30px;
+    margin-right: 100px;
+    margin-bottom: 16px;
+
+}
+
+
+.secondtext{
+    margin-left: 30px;
+}
+
+.lastimage{
+    display: flex;
+    
+    
+}
+h4{
+    font-size: 30px;
+}
+.mainnews{
+    font-size: 25px;
+    margin-left: 120px;
+    color: #502314;
+}
+.news{
+    display: flex;
+}
+.icon{
+    color: red;
+    margin-left: 1000px;
+    font-size: 15px;
+    margin-top: 50px;
+}
+.icons{
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.lastimages{
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.whop{
+    display: flex;
+}
+
+.whopper{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #502314;
+    margin-left: 170px;
+}
+.seperate{
+    position: relative;
+    right: 20px;
+}
+.sepe{
+    position: relative;
+    left: 70px;
+}
+.firstwhop{
+    position: relative;
+    right: 60px;
+}
+.lastdiv{
+    background-color: #502314;
+    color: white;
+    display: flex;
+    height: 500px;
+   
+   
+
+}
+
+.high{
+    margin-left: 200px;
+    display: flex;
+}
+
+.higher{
+    margin-left: 30px;
+}
+.highers{
+    color:rgba(252, 249, 249, 0.591) ;
+}
+.highs{
+    color: red;
+    margin-left: 20px;
+    margin-top: 24px;
+}
+.highe{
+    color: red;
+    position: relative;
+    top: 23px;
+    left:20px ;
+}
+
+.burger{
+    margin-left:px;
+    position: relative;
+    top: 150px;
+    right: 200px;
+    font-size: 16px;
+    text-transform: uppercase;
+    
+}
+.specialburger{
+    position: relative;
+    right: 430px;
+}
+.burgers{
+    margin-left: 60px;
+}
+.king{
+    position: relative;
+    right:520px;
+    text-transform: uppercase;
+}
+.bottom{
+    background-color: #502314;
+    color: white;
+    position: relative;
+    bottom: 30px;
+    display: flex;
+    height: 0px;
+    
+    
+}
+
+.tm{
+    background-color: #502314;
+    position: relative;
+    color: rgba(252, 249, 249, 0.591);
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.tms{
+    margin-right: 650px;
+}
+
+.icons{
+    color: white;
+    margin-bottom: 100px;
+    font-size: 18px;
+   
+
+}
+
+.iconss{
+    margin-left: 20px;
+    font-size: 40px;
+}
